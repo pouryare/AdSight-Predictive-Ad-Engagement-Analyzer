@@ -158,8 +158,7 @@ Users can interact with the deployed application by:
 ## Maintenance
 
 - Regularly update the IBM Watson API key and endpoint if needed.
-- Check for updates to the Streamlit and requests libraries and update `requirements.txt` accordingly.
-- Monitor the application's performance and retrain the model periodically with new data if available.
+- Monitor the application's performance and retrain the model periodically.
 
 ---
 
