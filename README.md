@@ -1,5 +1,8 @@
 # AdSight: Predictive Ad Engagement Analyzer
 
+![Project Screenshot](screenshot.png)
+
+
 ## Project Overview
 
 AdSight (formerly AdView Pro) is a machine learning project that predicts whether a user is likely to engage with an advertisement based on various factors. This project leverages IBM Watson for model training and deployment, and uses Streamlit for creating a user-friendly web interface. The final application is deployed on Heroku.
